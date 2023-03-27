@@ -1,3 +1,3 @@
 # DEMO
 
-lorem ipsum
+some description.
